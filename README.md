@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/shaysframe"><img src="https://github.com/ShaysFrame/shaysframe/blob/main/devcard.svg" width="400" alt="Shay's Dev Card"/></a>
+<a href="https://app.daily.dev/shaysframe"><img src="https://github.com/ShaysFrame/shaysframe/blob/main/devcard.svg" width="200" alt="Shay's Dev Card"/></a>
 
 <!--
 **ShaysFrame/shaysframe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
