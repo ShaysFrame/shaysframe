@@ -4,7 +4,7 @@
 <a href="https://app.daily.dev/shaysframe"><img src="https://github.com/ShaysFrame/shaysframe/blob/main/devcard.svg" width="200" alt="Shay's Dev Card"/></a>
 -->
 <!-- New Dev card generated at Thur Mar 14 2024-->
-<a href="https://app.daily.dev/shaysframe"><img src="https://api.daily.dev/devcards/v2/9627JdyMaBdkWhblYEeC3.png?r=4gf" width="356" alt="Shay's Dev Card"/></a>
+<a href="https://app.daily.dev/shaysframe"><img src="https://api.daily.dev/devcards/v2/9627JdyMaBdkWhblYEeC3.png?r=4gf" width="256" alt="Shay's Dev Card"/></a>
 
 <!--
 **ShaysFrame/shaysframe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
