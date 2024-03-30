@@ -18,6 +18,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-0084FF?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Laravel Admin" src="https://img.shields.io/badge/-Laravel_Admin-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <!-- Add more badges here for technologies you're proficient in -->
 
