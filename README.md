@@ -59,7 +59,7 @@ Here are some of my notable projects:
 <!-- - 🐦 Twitter: [@YourTwitterHandle](#) -->
 - 📫 Email: shaysframe@qq.com
 - 🌐 Website: [shaysframe.com](https://shaysframe.github.io/)
-- 👩‍💻 GitHub: [Your GitHub Profile](https://github.com/shaysframe/)
+- 👩‍💻 GitHub: [shaysframe](https://github.com/shaysframe/)
 
 <!-- Footer -->
 <p align="center">Made with ❤️ by Shay ™️</p>
