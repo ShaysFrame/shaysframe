@@ -35,9 +35,8 @@
 <!-- Tech Stack -->
 ## Tech Stack 💻
 
-- Flutter
-- Dart
-- Firebase, Laravel, Django
+- Flutter, React, Vue, Angular
+- Django, Firebase, Laravel.
 - MySQL / PostgreSQL
 - Git 
 - VS Code
@@ -63,7 +62,7 @@ Here are some of my notable projects:
 - 👩‍💻 GitHub: [shaysframe](https://github.com/shaysframe/)
 
 <!-- Footer -->
-<p align="center">Made with ❤️ by Shay ™️</p>
+<p align="center">Made with ❤️ by ShaysFrame ™️</p>
 
 
 <!-- old dev card
