@@ -1,5 +1,5 @@
 <!-- Your Name -->
-<h1 align="center">🚀 Hi I'm Shay - Software Engineer, Specialized in Mobile App Development 🚀</h1>
+<h1 align="center">🚀 Hi I'm RAHMAN MOHAMMA - Software Engineer, Specialized in Mobile App Development 🚀</h1>
 
 <!-- Introduction -->
 <p align="center">Passionate Cross platform app developer with a knack for crafting elegant and functional mobile and desktop applications!</p>
