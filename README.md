@@ -35,11 +35,15 @@
 <!-- Tech Stack -->
 ## Tech Stack 💻
 
+- Dart, Python, Php, JS
 - Flutter, React, Vue, Angular
-- Django, Firebase, Laravel.
+- Django, Laravel
 - MySQL / PostgreSQL
-- Git 
-- VS Code
+- VS Code, Android Studio, IDEA, PyCharm
+- Git, Docker, aaPanel
+- Ubuntu, CentOS
+- Azure, Aliyun (Alibaba Cloud)
+- Firebase
 <!-- Add more technologies you're proficient in -->
 
 <!-- Projects -->
@@ -58,7 +62,7 @@ Here are some of my notable projects:
 <!-- - 💼 LinkedIn: [Your LinkedIn Profile](#) -->
 <!-- - 🐦 Twitter: [@YourTwitterHandle](#) -->
 - 📫 Email: shaysframe@qq.com
-- 🌐 Website: [shaysframe.com](https://shaysframe.github.io/)
+- 🌐 Website: [shaysframe.github.io](https://shaysframe.github.io/)
 - 👩‍💻 GitHub: [shaysframe](https://github.com/shaysframe/)
 
 <!-- Footer -->
