@@ -9,7 +9,9 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <!-- <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <!-- <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> -->
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -22,8 +24,11 @@
   <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-0084FF?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Laravel Admin" src="https://img.shields.io/badge/-Laravel_Admin-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <!-- <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /> -->
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <!-- <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   <img alt="PocketBase" src="https://img.shields.io/badge/PocketBase-009688?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxdjRIN3YySDV2NEgxNXYtNGgtMlY1aDJWMWgtM3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+" />
+  <!-- <img alt="PocketBase" src="https://img.shields.io/badge/PocketBase-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxdjRIN3YySDV2NEgxNXYtNGgtMlY1aDJWMWgtM3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+" /> -->
   
   <!-- Add more badges here for technologies you're proficient in -->
 
