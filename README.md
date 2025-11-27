@@ -33,10 +33,6 @@ class AboutMe {
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -71,7 +67,10 @@ class AboutMe {
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" />
 
-</td>
+---
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ## 💼 Professional Experience
@@ -93,6 +92,9 @@ class AboutMe {
 - Deployed applications on cloud platforms (Azure, Alibaba Cloud)
 - Utilized Docker for containerization and deployment automation
 
+</td>
+<td width="50%" valign="top">
+
 ## 🎯 Core Competencies
 
 - **Cross-Platform Development**: Building native-feeling applications for iOS, Android, and Desktop using Flutter
@@ -101,16 +103,6 @@ class AboutMe {
 - **Full-Stack Development**: End-to-end application development from frontend to backend
 - **Agile Methodologies**: Experience with iterative development and continuous improvement
 - **Code Quality**: Writing clean, maintainable, and well-documented code
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## 🚀 Currently Working On
 
@@ -121,19 +113,16 @@ class AboutMe {
 - 🔍 Exploring new technologies and innovative solutions
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+---
 
 ## 📁 Projects & Portfolio
 
-View my complete portfolio and project showcase at:  
-**[shaysframe.github.io](https://shaysframe.github.io/)**
+View my complete portfolio and project showcase at: **[shaysframe.github.io](https://shaysframe.github.io/)**
 
-Explore my repositories:  
-**[github.com/ShaysFrame](https://github.com/ShaysFrame?tab=repositories)**
-
-</td>
-</tr>
-</table>
+Explore my repositories: **[github.com/ShaysFrame](https://github.com/ShaysFrame?tab=repositories)**
 
 ---
 
