@@ -1,8 +1,12 @@
-# Shay - Software Engineer
-
-**Mobile App Developer | Full-Stack Developer | Cross-Platform Specialist**
-
-📧 Email: [shaysframe@qq.com](mailto:shaysframe@qq.com) | 🌐 Portfolio: [shaysframe.github.io](https://shaysframe.github.io/) | 💼 GitHub: [@shaysframe](https://github.com/shaysframe)
+<div align="center">
+  <h1>Shay - Software Engineer</h1>
+  <h3>Mobile App Developer | Full-Stack Developer | Cross-Platform Specialist</h3>
+  <p>
+    📧 <a href="mailto:shaysframe@qq.com">shaysframe@qq.com</a> | 
+    🌐 <a href="https://shaysframe.github.io/">Portfolio</a> | 
+    💼 <a href="https://github.com/shaysframe">GitHub</a>
+  </p>
+</div>
 
 ---
 
@@ -29,7 +33,11 @@ class AboutMe {
 
 ---
 
-## Technical Skills
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -40,15 +48,6 @@ class AboutMe {
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 
-**Proficiency:**
-- **Dart** - Advanced proficiency in Flutter development
-- **Python** - Backend development with Django
-- **PHP** - Laravel framework expertise
-- **JavaScript** - Frontend frameworks (React, Vue.js)
-- **Go** - Backend services and APIs
-- **Java** - Enterprise application development
-- **C++** - System-level programming
-
 ### Frameworks & Libraries
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -57,58 +56,25 @@ class AboutMe {
 <img alt="PocketBase" src="https://img.shields.io/badge/PocketBase-009688?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxdjRIN3YySDV2NEgxNXYtNGgtMlY1aDJWMWgtM3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+" />
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 
-**Expertise:**
-- **Mobile**: Flutter (Cross-platform iOS/Android/Desktop)
-- **Frontend**: React, Vue.js
-- **Backend**: Django, Laravel, PocketBase
-- **State Management**: Provider, Riverpod, Bloc (Flutter)
-
 ### Databases & Data Management
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-**Experience:**
-- **Relational**: MySQL, PostgreSQL
-- **NoSQL**: Firebase (Firestore, Realtime Database)
-- **ORM**: Eloquent (Laravel), Django ORM
-
-### Development Tools & Technologies
+### Development Tools
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-**Tools:**
-- **Version Control**: Git, GitHub
-- **Containerization**: Docker
-- **Design**: Figma (UI/UX Design)
-- **IDEs**: VS Code, Android Studio, IntelliJ IDEA, PyCharm
-- **Server Management**: aaPanel, Ubuntu, CentOS
-
 ### Cloud & DevOps
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
 <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white" />
 
-**Platforms:**
-- **Cloud Platforms**: Microsoft Azure, Alibaba Cloud (Aliyun)
-- **CI/CD**: Automated deployment pipelines
-- **Monitoring**: Application performance monitoring
+</td>
+<td width="50%" valign="top">
 
----
-
-## Core Competencies
-
-- **Cross-Platform Development**: Building native-feeling applications for iOS, Android, and Desktop using Flutter
-- **Backend Architecture**: Designing and implementing RESTful APIs and microservices
-- **UI/UX Design**: Creating intuitive and visually appealing user interfaces
-- **Full-Stack Development**: End-to-end application development from frontend to backend
-- **Agile Methodologies**: Experience with iterative development and continuous improvement
-- **Code Quality**: Writing clean, maintainable, and well-documented code
-
----
-
-## Professional Experience
+## 💼 Professional Experience
 
 ### Software Engineer | Mobile & Full-Stack Development
 
@@ -127,50 +93,78 @@ class AboutMe {
 - Deployed applications on cloud platforms (Azure, Alibaba Cloud)
 - Utilized Docker for containerization and deployment automation
 
----
+## 🎯 Core Competencies
 
-## Projects & Portfolio
+- **Cross-Platform Development**: Building native-feeling applications for iOS, Android, and Desktop using Flutter
+- **Backend Architecture**: Designing and implementing RESTful APIs and microservices
+- **UI/UX Design**: Creating intuitive and visually appealing user interfaces
+- **Full-Stack Development**: End-to-end application development from frontend to backend
+- **Agile Methodologies**: Experience with iterative development and continuous improvement
+- **Code Quality**: Writing clean, maintainable, and well-documented code
 
-View my complete portfolio and project showcase at: **[shaysframe.github.io](https://shaysframe.github.io/)**
-
-Explore my repositories: **[github.com/shaysframe](https://github.com/shaysframe?tab=repositories)**
-
----
-
-## GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaysframe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaysframe&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaysframe&theme=tokyonight" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Working On
+## 📊 GitHub Statistics
 
-- Building scalable mobile applications with Flutter
-- Developing robust backend APIs with Laravel and Django
-- Creating beautiful user interfaces with modern design principles
-- Continuously learning and improving development skills
-- Exploring new technologies and innovative solutions
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaysframe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaysframe&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaysframe&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-## Contact & Links
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://shaysframe.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaysframe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaysframe@qq.com)
+## 🚀 Currently Working On
+
+- 🔨 Building scalable mobile applications with Flutter
+- 🌐 Developing robust backend APIs with Laravel and Django
+- 🎨 Creating beautiful user interfaces with modern design principles
+- 📚 Continuously learning and improving development skills
+- 🔍 Exploring new technologies and innovative solutions
+
+</td>
+<td width="50%" valign="top">
+
+## 📁 Projects & Portfolio
+
+View my complete portfolio and project showcase at:  
+**[shaysframe.github.io](https://shaysframe.github.io/)**
+
+Explore my repositories:  
+**[github.com/shaysframe](https://github.com/shaysframe?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shaysframe.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaysframe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaysframe@qq.com)
 
 **Contact Information:**
 - **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com)
 - **Portfolio**: [shaysframe.github.io](https://shaysframe.github.io/)
 - **GitHub**: [github.com/shaysframe](https://github.com/shaysframe)
 
----
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=shaysframe&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=shaysframe&color=blueviolet&style=flat-square" alt="Profile views" />
 
 *Last updated: 2024 | Made with ❤️ by ShaysFrame ™️*
+
+</div>
