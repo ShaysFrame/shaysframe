@@ -4,7 +4,7 @@
   <p>
     📧 <a href="mailto:shaysframe@qq.com">shaysframe@qq.com</a> | 
     🌐 <a href="https://shaysframe.github.io/">Portfolio</a> | 
-    💼 <a href="https://github.com/shaysframe">GitHub</a>
+    💼 <a href="https://github.com/ShaysFrame">GitHub</a>
   </p>
 </div>
 
@@ -111,8 +111,8 @@ class AboutMe {
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaysframe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaysframe&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShaysFrame&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaysFrame&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <sub>*Note: Statistics reflect public repositories only. Most of my work is in private repositories.*</sub>
@@ -140,7 +140,7 @@ View my complete portfolio and project showcase at:
 **[shaysframe.github.io](https://shaysframe.github.io/)**
 
 Explore my repositories:  
-**[github.com/shaysframe](https://github.com/shaysframe?tab=repositories)**
+**[github.com/ShaysFrame](https://github.com/ShaysFrame?tab=repositories)**
 
 </td>
 </tr>
@@ -153,15 +153,15 @@ Explore my repositories:
 ## 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shaysframe.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaysframe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaysFrame)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaysframe@qq.com)
 
 **Contact Information:**
 - **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com)
 - **Portfolio**: [shaysframe.github.io](https://shaysframe.github.io/)
-- **GitHub**: [github.com/shaysframe](https://github.com/shaysframe)
+- **GitHub**: [github.com/ShaysFrame](https://github.com/ShaysFrame)
 
-<img src="https://komarev.com/ghpvc/?username=shaysframe&color=blueviolet&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShaysFrame&color=blueviolet&style=flat-square" alt="Profile views" />
 
 *Last updated: 2024 | Made with ❤️ by ShaysFrame ™️*
 
