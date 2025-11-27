@@ -127,6 +127,6 @@ Explore my repositories: **[github.com/ShaysFrame](https://github.com/ShaysFrame
 
 <img src="https://komarev.com/ghpvc/?username=ShaysFrame&color=blueviolet&style=flat-square" alt="Profile views" />
 
-*Last updated: 2024 | Made with ❤️ by ShaysFrame ™️*
+*Last updated: 2025 | Made with ❤️ by ShaysFrame ™️*
 
 </div>
