@@ -108,17 +108,6 @@ class AboutMe {
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShaysFrame&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaysFrame&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<sub>*Note: Statistics reflect public repositories only. Most of my work is in private repositories.*</sub>
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
