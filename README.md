@@ -117,10 +117,10 @@ Explore my repositories: **[github.com/ShaysFrame](https://github.com/ShaysFrame
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaysFrame)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaysframe@qq.com)
 
-**Contact Information:**
-- **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com)
-- **Portfolio**: [shaysframe.github.io](https://shaysframe.github.io/)
-- **GitHub**: [github.com/ShaysFrame](https://github.com/ShaysFrame)
+  * **Contact Information:**
+  * **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com)
+  * **Portfolio**: [shaysframe.github.io](https://shaysframe.github.io/)
+  * **GitHub**: [github.com/ShaysFrame](https://github.com/ShaysFrame)
 
 <img src="https://komarev.com/ghpvc/?username=ShaysFrame&color=blueviolet&style=flat-square" alt="Profile views" />
 
