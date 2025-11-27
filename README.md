@@ -12,7 +12,7 @@
 </div>
 
 <!-- Tech Stack Badges -->
-<div align="center">
+<div align="left">
   <h3>🛠️ Tech Stack</h3>
   
   **Languages:**
