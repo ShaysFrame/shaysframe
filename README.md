@@ -118,9 +118,12 @@ Explore my repositories: **[github.com/ShaysFrame](https://github.com/ShaysFrame
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaysframe@qq.com)
 
   **Contact Information:**
-  **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com)
+  **Email**: [shaysframe@qq.com](mailto:shaysframe@qq.com) 
+  <br>
   **Portfolio**: [shaysframe.github.io](https://shaysframe.github.io/)
+  <br>
   **GitHub**: [github.com/ShaysFrame](https://github.com/ShaysFrame)
+  <br>
 
 <img src="https://komarev.com/ghpvc/?username=ShaysFrame&color=blueviolet&style=flat-square" alt="Profile views" />
 
