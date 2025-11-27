@@ -24,7 +24,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   
-  <br><br>
+  <br>
   
   **Frameworks & Libraries:**
   <br>
@@ -35,7 +35,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
-  <br><br>
+  <br>
   
   **Databases & Tools:**
   <br>
@@ -46,7 +46,7 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   
-  <br><br>
+  <br>
   
   **Cloud & DevOps:**
   <br>
