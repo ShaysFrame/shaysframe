@@ -1,5 +1,5 @@
 <!-- Your Name -->
-<h1 align="center">🚀 Hi I'm Shay - Software Engineer, Specialized in Mobile App Development 🚀</h1>
+<h1 align="center">🚀 Hi I'm -M- Software Engineer, Specialized in Mobile App Development 🚀</h1>
 
 <!-- Introduction -->
 <p align="center">Passionate Cross platform app developer with a knack for crafting elegant and functional mobile and desktop applications!</p>
@@ -40,20 +40,23 @@
 - 💻 I specialize in building cross-platform mobile and desktop applications using Flutter as frontend and laravel or Django as backend.
 - 🎨 I have a keen eye for design and enjoy creating visually appealing user interfaces.
 - 🚀 I'm passionate about learning new technologies and exploring innovative solutions.
-- 📱 Check out my [portfolio](https://shaysframe.github.io/) for a showcase of my projects!
+- 📱 Check out my [portfolio](https://shay.pub/) for a showcase of my projects!
 
 <!-- Tech Stack -->
 ## Tech Stack 💻
 
-- Dart, Python, Php, JS
-- Flutter, React, Vue, Angular
+- Dart, Python, Php, TS, C++/C
+- Flutter, Next.ts, Vue, UniAPP
 - Django, Laravel
 - MySQL / PostgreSQL
 - VS Code, Android Studio, IDEA, PyCharm
 - Git, Docker, aaPanel
-- Ubuntu, CentOS
-- Azure, Aliyun (Alibaba Cloud)
-- Firebase
+- Linux, Ubuntu, CentOS
+- AWS, Azure, Aliyun (Alibaba Cloud)
+- Firebase, Supabase
+- Appstore Connect, Play Store Console, Shopify Headless
+- Ai, Agents, Claude, Codex, Gemini, MCP, Hermes
+- ResberryPi, ESP32 IDE
 <!-- Add more technologies you're proficient in -->
 
 <!-- Projects -->
@@ -71,12 +74,13 @@ Here are some of my notable projects:
 
 <!-- - 💼 LinkedIn: [Your LinkedIn Profile](#) -->
 <!-- - 🐦 Twitter: [@YourTwitterHandle](#) -->
-- 📫 Email: shaysframe@qq.com
-- 🌐 Website: [shaysframe.github.io](https://shaysframe.github.io/)
+- 📫 Email: rmmframe@gmail.com
+- 🌐 Website:[shay.pub](https://shay.pub/)
 - 👩‍💻 GitHub: [shaysframe](https://github.com/shaysframe/)
 
 <!-- Footer -->
-<p align="center">Made with ❤️ by ShaysFrame ™️</p>
+<p align="center">by mFrame ™️</p>
+<p align="center">R. M. MAHAFUJ</p>
 
 
 <!-- old dev card
